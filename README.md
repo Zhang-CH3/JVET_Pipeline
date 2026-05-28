@@ -1,4 +1,3 @@
----
 
 # JVET_Pipeline / JVET 文档批量处理工具集
 
@@ -376,9 +375,5 @@ JVET-AP0105	标题...
 | `merge_txt.py` | TXT 合并 |
 | `README.md` | 本文件 |
 
----
-
-
-## Contact
 
 Issues and pull requests are welcome.
