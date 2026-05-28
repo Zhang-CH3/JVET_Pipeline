@@ -1,7 +1,7 @@
 
 # JVET_Pipeline / JVET 文档批量处理工具集
 
-> [**English**](#English Version) | [**中文**](#中文版)
+> [**English**](#english-version) | [**中文**](#中文版)
 
 ---
 
