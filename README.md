@@ -79,7 +79,7 @@ python jvet_downloader.py
 ```
 
 **Notes**:
-- Tries versions v1 to v4, downloads the first existing version
+- Tries versions v4 to v1, downloads the first existing version
 - Skips already downloaded files
 - Increase `REQUEST_INTERVAL_SECONDS` if network is slow
 
@@ -265,7 +265,7 @@ python jvet_downloader.py
 ```
 
 **说明**：
-- 脚本会从 v1 到 v4 依次尝试，下载第一个存在的版本
+- 脚本会从 v4 到 v1 依次倒序尝试，下载第一个存在的版本
 - 已存在的文件会自动跳过
 - 网络慢时可适当增加 `REQUEST_INTERVAL_SECONDS`
 
